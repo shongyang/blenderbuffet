@@ -1,0 +1,73 @@
+# MakeHuman exported MTL
+# www.makehuman.org
+
+
+newmtl young_caucasian_female
+Kd 1 1 1
+Ks 0.06275 0.05098 0.05098
+d 0
+map_Kd textures\young_lightskinned_female_diffuse.png
+map_D textures\young_lightskinned_female_diffuse.png
+
+newmtl material.002Material
+Kd 0.64 0.64 0.64
+Ks 0.5 0.5 0.5
+d 0
+map_Kd textures\redhair.png
+map_D textures\redhair.png
+
+newmtl Eye_brown
+Kd 1 1 1
+Ks 1 1 1
+d 0
+map_Kd textures\brown_eye.png
+map_D textures\brown_eye.png
+
+newmtl eyebrow008
+Kd 1 1 1
+Ks 0 0 0
+d 0
+map_Kd textures\eyebrow008.png
+map_D textures\eyebrow008.png
+
+newmtl bodyMaterial
+Kd 1 1 1
+Ks 0 0 0
+d 0
+map_Kd textures\eyelashes02.png
+map_D textures\eyelashes02.png
+
+newmtl teethMaterial
+Kd 0.64 0.64 0.64
+Ks 0.8549 0.8549 0.8549
+d 0
+map_Kd textures\teeth.png
+map_D textures\teeth.png
+
+newmtl munskyddMaterial
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+d 0
+map_Kd textures\munskydd.png
+map_D textures\munskydd.png
+
+newmtl knitted_sweater_01
+Kd 1 1 1
+Ks 0 0 0
+d 0
+map_Kd textures\Knitted_Sweater_01.png
+map_D textures\Knitted_Sweater_01.png
+
+newmtl stethoscope
+Kd 0.5 0.5 0.5
+Ks 0.5 0.5 0.5
+d 0
+map_Kd textures\stethoscope.png
+map_D textures\stethoscope.png
+
+newmtl material.001Material
+Kd 0.64 0.64 0.64
+Ks 0.5 0.5 0.5
+d 0
+map_Kd textures\pants_camo.png
+map_D textures\pants_camo.png

@@ -1,0 +1,51 @@
+# MakeHuman exported MTL
+# www.makehuman.org
+
+
+newmtl DefaultSkin
+Kd 0.5903 0.44 0.338
+Ks 0.3 0.3 0.3
+d 1
+
+newmtl short03
+Kd 1 1 1
+Ks 0.04706 0.04706 0.04706
+d 0
+map_Kd textures\short03_diffuse.png
+map_D textures\short03_diffuse.png
+
+newmtl Eye_brown
+Kd 1 1 1
+Ks 1 1 1
+d 0
+map_Kd textures\brown_eye.png
+map_D textures\brown_eye.png
+
+newmtl eyebrow008
+Kd 1 1 1
+Ks 0 0 0
+d 0
+map_Kd textures\eyebrow008.png
+map_D textures\eyebrow008.png
+
+newmtl eylashes04
+Kd 1 1 1
+Ks 0 0 0
+d 0
+map_Kd textures\eyelashes04.png
+map_D textures\eyelashes04.png
+
+newmtl balletflatsMaterial
+Kd 0.64 0.64 0.64
+Ks 0.2 0.2 0.2
+d 0
+map_Kd textures\BalletFlats.png
+map_D textures\BalletFlats.png
+map_Ks textures\BalletFlatsSPEC.png
+
+newmtl uniform_redMaterial
+Kd 0.64 0.00581 0.006492
+Ks 0.5 0.5 0.5
+d 0
+map_Kd textures\Starship_Uniform_Female_Gold.png
+map_D textures\Starship_Uniform_Female_Gold.png

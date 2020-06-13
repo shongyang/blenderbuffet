@@ -1,0 +1,38 @@
+# MakeHuman exported MTL
+# www.makehuman.org
+
+
+newmtl old_caucasian_female
+Kd 1 1 1
+Ks 0.06275 0.05098 0.05098
+d 0
+map_Kd textures\old_lightskinned_female_diffuse.png
+map_D textures\old_lightskinned_female_diffuse.png
+
+newmtl hair_01
+Kd 0.4 0.4 0.4
+Ks 0 0 0
+d 0
+map_Kd textures\hair_01diffuse.png
+map_D textures\hair_01diffuse.png
+
+newmtl Eye_brown
+Kd 1 1 1
+Ks 1 1 1
+d 0
+map_Kd textures\brown_eye.png
+map_D textures\brown_eye.png
+
+newmtl m_swimming_trunks_01
+Kd 1 1 1
+Ks 0.1575 0.1575 0.1575
+d 0
+map_Kd textures\M_Swimming_trunks_01.png
+map_D textures\M_Swimming_trunks_01.png
+
+newmtl material_0Material
+Kd 1 1 1
+Ks 1 1 1
+d 0
+map_Kd textures\sungass_tex1.png
+map_D textures\sungass_tex1.png
