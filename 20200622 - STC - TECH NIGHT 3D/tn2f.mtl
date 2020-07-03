@@ -1,0 +1,65 @@
+# MakeHuman exported MTL
+# www.makehuman.org
+
+
+newmtl young_caucasian_female
+Kd 1 1 1
+Ks 0.06275 0.05098 0.05098
+d 0
+map_Kd textures\young_lightskinned_female_diffuse.png
+map_D textures\young_lightskinned_female_diffuse.png
+
+newmtl hair.003Material
+Kd 0.5506 0.1056 0.03488
+Ks 0.5 0.5 0.5
+d 1
+
+newmtl Eye_brown
+Kd 1 1 1
+Ks 1 1 1
+d 0
+map_Kd textures\brown_eye.png
+map_D textures\brown_eye.png
+
+newmtl eyebrow002
+Kd 1 1 1
+Ks 0 0 0
+d 0
+map_Kd textures\eyebrow002.png
+map_D textures\eyebrow002.png
+
+newmtl teethMaterial
+Kd 0.64 0.64 0.64
+Ks 0.8549 0.8549 0.8549
+d 0
+map_Kd textures\teeth.png
+map_D textures\teeth.png
+
+newmtl tongue01Material
+Kd 1 1 1
+Ks 0.03137 0.03137 0.03137
+d 0
+map_Kd textures\tongue01_diffuse.png
+map_D textures\tongue01_diffuse.png
+
+newmtl balletflatsMaterial
+Kd 0.64 0.64 0.64
+Ks 0.2 0.2 0.2
+d 0
+map_Kd textures\BalletFlats.png
+map_D textures\BalletFlats.png
+map_Ks textures\BalletFlatsSPEC.png
+
+newmtl knitted_sweater_01
+Kd 1 1 1
+Ks 0 0 0
+d 0
+map_Kd textures\Knitted_Sweater_01.png
+map_D textures\Knitted_Sweater_01.png
+
+newmtl m_trousers_01
+Kd 1 1 1
+Ks 0 0 0
+d 0
+map_Kd textures\M_Trousers_01.png
+map_D textures\M_Trousers_01.png
